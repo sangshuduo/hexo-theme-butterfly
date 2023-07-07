@@ -44,7 +44,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://pbs.twimg.com/profile_images/487469899858464769/kMg2l33E_400x400.jpeg
+  img: ./img/jeep-key.png
   effect: false
 
 # Disable all banner image
